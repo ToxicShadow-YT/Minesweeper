@@ -1,0 +1,4 @@
+numpy
+pygame
+# Optional acceleration
+numba
